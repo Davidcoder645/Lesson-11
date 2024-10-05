@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+/*identity-ID selector*/
+#box1{
+    font-size: 28px;
+    color: brown;
+    padding:20px 20px 20px 20px
+}
+#box2{
+    font-size: 25px;
+    color: green;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+}
+img#img1{
+    float: left;
+}
+img#img2{
+    float:right;
+}
